@@ -1,0 +1,8 @@
+https://www.nalog.ru/rn18/
+
+1.//span[text()='Физические']/..
+2.//*[@id="gosmonitor_widget_wrapper_main"]/div[1]
+3.//ul[@class='services__list']//span[@class='text-icon']
+4.//a[text()='О ФНС России']
+5.//div[@class='header__left']
+6.//div[@class='search__text']//span[@class='select2-selection select2-selection--single'
